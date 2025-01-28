@@ -53,7 +53,7 @@
 
 ### 🏆 My Contributions:
 <div align="center">
-  ![GitHub Contribution Graph](https://github.com/Virucodes/Virucodes/blob/output/snake.svg)
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Virucodes&theme=radical&hide_border=true)
 </div>
 
 ---
