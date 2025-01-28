@@ -51,21 +51,6 @@
 
 ---
 
-### 🏆 My Contributions:
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Virucodes&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
-</div>
-
-
----
-
-### 🐍 Watch My Contribution Snake:
-<div align="center">
-  <img src="https://github.com/Virucodes/Virucodes/blob/output/snake.svg" alt="Contribution Snake" />
-</div>
-
----
-
 ### 💻 Fun Facts:
 - ⚡ I'm passionate about **learning** and **teaching** coding.
 - 🎨 I believe in **clean and elegant design** for both apps and code.
