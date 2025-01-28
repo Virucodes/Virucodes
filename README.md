@@ -18,7 +18,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Virucodes&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virucodes&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
 <div align="center">
