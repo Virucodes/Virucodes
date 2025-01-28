@@ -17,11 +17,11 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Virucodes&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Virucodes&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" style="display:inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Virucodes&theme=radical&hide_border=true" height="180" alt="GitHub Streak" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virucodes&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" style="display:inline-block;" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Virucodes&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
