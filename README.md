@@ -53,7 +53,7 @@
 
 ### 🏆 My Contributions:
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Virucodes&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  ![GitHub Contribution Graph](https://github.com/Virucodes/Virucodes/blob/output/snake.svg)
 </div>
 
 ---
