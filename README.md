@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFhNnpjdmd3bGRleHcya3NkeHZxa3lhaWU0eThnNnE4ODE1aWdneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="250" alt="Coding animation" />
-</div>  give some awesome background to that gif which cover overall rectangle and also looks good
+</div>
 
 <h1 align="center">Hi, I'm <span style="color:#ff6ec7;">Viraj Vijay Mane</span> 👋</h1>
 
