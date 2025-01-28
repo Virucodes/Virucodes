@@ -15,7 +15,7 @@
 
 ###
 
-![Snake animation](https://github.com/Virucodes/Virucodes/blob/output/snake.svg)
+![Snake animation](https://github.com/Virucodes/snk/blob/output/snake.svg)
 
 ###
 
