@@ -47,7 +47,7 @@
 - 🔭 I’m currently working on **Full-Stack App Development**
 - 🌱 Learning **React**, **Django**, and exploring **Cybersecurity**
 - 💡 Interested in **Problem-Solving**, **AI/ML**, and **Open-Source Projects**
-- 📫 How to reach me: **[Email](mailto:viraj@example.com)** | **[LinkedIn]([https://www.linkedin.com/in/viraj-vijay-mane](https://www.linkedin.com/in/virajmane13/))**
+- 📫 How to reach me: **[Email](mailto:viraj@example.com)** | **[LinkedIn]([https://www.linkedin.com/in/viraj-vijay-mane](https://www.linkedin.com/in/virajmane13/)**
 
 ---
 
