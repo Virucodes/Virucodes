@@ -1,7 +1,6 @@
-<div style="background: linear-gradient(45deg, #6a1b9a, #00bcd4); padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFhNnpjdmd3bGRleHcya3NkeHZxa3lhaWU0eThnNnE4ODE1aWdneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="250" alt="Coding animation" style="border-radius: 10px;"/>
-</div>
-
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFhNnpjdmd3bGRleHcya3NkeHZxa3lhaWU0eThnNnE4ODE1aWdneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" height="250" alt="Coding animation" />
+</div>  give some awesome background to that gif which cover overall rectangle and also looks good
 
 <h1 align="center">Hi, I'm <span style="color:#ff6ec7;">Viraj Vijay Mane</span> 👋</h1>
 
