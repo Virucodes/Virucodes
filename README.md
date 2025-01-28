@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<div align="center" style="text-align:center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Crafting+Innovative+Solutions;Exploring+Tech+With+Passion;Code+%7C+Create+%7C+Contribute" alt="Typing Animation" />
 </div>
 
